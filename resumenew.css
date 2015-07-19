@@ -1,0 +1,106 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body {
+	background-color: #ffffff;
+	margin: 100px 0px 0px 100px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-right: 25%;
+	background-image: url("izzy.jpg");
+	background-repeat: no-repeat;
+	background-position:100px 60px;
+
+	
+		
+}
+li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.degree {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.sections {
+	font-size: 16px;
+	color: #FFF;
+	height: auto;
+	line-height: normal;
+	text-align: center;
+	padding: 2px 0px 2px 0;
+
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #333;
+	border-radius: 4px 15px 12px 10px;
+}
+
+
+h1{
+line-height: 18px;
+text-indent: 150px;
+}
+
+.contactinfo {
+	font-size: 14px;
+	color: #C30;
+	font-family: Helvetica, sans-serif;
+	line-height: 16px;
+	
+	margin-left:150px
+
+}
+
+
+.orgnames {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+}
+a {
+	font-size: 14px;
+	color: #C30;
+	font-family: Helvetica, sans-serif;
+	line-height: 16px;
+
+}
+#container {
+
+	clear: both;
+	float: right;
+	width: 300px;
+	text-align: left;
+	vertical-align: middle;
+	
+	
+}
+.summary {
+	font-size: 14px;
+	color: #C30;
+	font-family: Helvetica, sans-serif;
+	line-height: 16px;
+	
+	
+
+}
+
+}
+.summarytext {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+.footer {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+#smallcontainer {
+	clear: none;
+	float: left;
+	width: 50px;
+}
